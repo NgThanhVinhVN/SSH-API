@@ -30,7 +30,7 @@ apt install python3 python3-pip -y
 pip3 install -r requirements.txt
 python3 build_api.py
 
-( Change ssh server on api_server.py )
+( Change ssh server on build_api.py )
 ( Change user info on users.txt formart key:year-month-day:max_duration:max_concurrents )
 ```
 
