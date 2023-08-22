@@ -3,9 +3,9 @@
 #  SSH API By NGTV
 
 <p>
- <img src="https://img.shields.io/github/stars/NgThanhVinhVN/API-SSH?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/NgThanhVinhVN/API-SSH?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/NgThanhVinhVN/API-SSH?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/stars/NgThanhVinhVN/SSH-API?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/NgThanhVinhVN/SSH-API?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/NgThanhVinhVN/SSH-API?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
  
 </p>
   
@@ -28,7 +28,7 @@ Ubuntu 20.04 LTS
 apt update -y
 apt install python3 python3-pip -y
 pip3 install -r requirements.txt
-python3 api_server.py
+python3 build_api.py
 
 ( Change ssh server on api_server.py )
 ( Change user info on users.txt formart key:year-month-day:max_duration:max_concurrents )
