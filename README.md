@@ -1,6 +1,6 @@
 <div align=center>
  
-#  SSH API By NGTV
+#  SSH API By NTV
 
 <p>
  <img src="https://img.shields.io/github/stars/NgThanhVinhVN/SSH-API?color=%23DF0067&style=for-the-badge"/> &nbsp;
